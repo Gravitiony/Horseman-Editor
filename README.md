@@ -1,6 +1,6 @@
 # Horseman-Editor
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/>
-    <img src="https://img.shields.io/badge/NonSupport-MACOS-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NonSupport-MACOS-blue?style=flat-square"/>
 
 
    <p align="center">
