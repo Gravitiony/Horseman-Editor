@@ -1,7 +1,8 @@
 # Horseman-Editor
+<p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/NonSupport-MACOS-blue?style=flat-square"/>
-
+<p/>
 
    <p align="center">
     Horseman Editor is the new gen video edit software.
